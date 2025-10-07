@@ -5,4 +5,5 @@ body {
     border: solid 2px rgb(126, 68, 68);
     margin: 20px;
     padding: 10px;
+    border-radius: 5px;
 }
