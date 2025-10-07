@@ -1,0 +1,8 @@
+body {
+    background-color: rosybrown;
+    font-size: medium;
+    color:rgb(126, 68, 68);
+    border: solid 2px rgb(126, 68, 68);
+    margin: 20px;
+    padding: 10px;
+}
